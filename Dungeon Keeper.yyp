@@ -34,8 +34,10 @@
     "IDEVersion": "2023.11.1.129",
   },
   "resources": [
+    {"id":{"name":"spr_keyboard_e","path":"sprites/spr_keyboard_e/spr_keyboard_e.yy",},},
     {"id":{"name":"spr_golem","path":"sprites/spr_golem/spr_golem.yy",},},
     {"id":{"name":"obj_golem","path":"objects/obj_golem/obj_golem.yy",},},
+    {"id":{"name":"obj_keyboard_e","path":"objects/obj_keyboard_e/obj_keyboard_e.yy",},},
     {"id":{"name":"obj_crystal","path":"objects/obj_crystal/obj_crystal.yy",},},
     {"id":{"name":"spr_crystal","path":"sprites/spr_crystal/spr_crystal.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

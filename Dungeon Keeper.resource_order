@@ -17,6 +17,8 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"spr_keyboard_e","order":2,"path":"sprites/spr_keyboard_e/spr_keyboard_e.yy",},
+    {"name":"obj_keyboard_e","order":2,"path":"objects/obj_keyboard_e/obj_keyboard_e.yy",},
     {"name":"obj_crystal","order":1,"path":"objects/obj_crystal/obj_crystal.yy",},
     {"name":"spr_crystal","order":1,"path":"sprites/spr_crystal/spr_crystal.yy",},
   ],
