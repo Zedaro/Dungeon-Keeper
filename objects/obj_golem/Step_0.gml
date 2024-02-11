@@ -1,6 +1,13 @@
 /// @description Hier Beschreibung einfügen
 // Sie können Ihren Code in diesem Editor schreiben
 
+if y != yprevious
+{
+    depth = -y
+}
+
+depth = -y;
+
 if keyboard_check(vk_up) || keyboard_check(ord("W")) {
 	y -= 2
 }
