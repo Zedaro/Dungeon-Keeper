@@ -23,3 +23,9 @@ if keyboard_check(vk_left) || keyboard_check(ord("A")) {
 if keyboard_check(vk_right) || keyboard_check(ord("D")) {
 	x += 2
 }
+
+if (place_meeting(x, y, obj_crystal))
+{
+	var _second = string(current_time)
+    show_debug_message("Collision" + _second)
+}
