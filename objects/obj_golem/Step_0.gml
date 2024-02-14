@@ -1,31 +1,6 @@
 /// @description Hier Beschreibung einfügen
 // Sie können Ihren Code in diesem Editor schreiben
 
-if y != yprevious
-{
-    depth = -y
-}
+basic_depth_check()
+basic_movement_check()
 
-depth = -y;
-
-if keyboard_check(vk_up) || keyboard_check(ord("W")) {
-	y -= 2
-}
-
-if keyboard_check(vk_down) || keyboard_check(ord("S")) {
-	y += 2
-}
-
-if keyboard_check(vk_left) || keyboard_check(ord("A")) {
-	x -= 2
-}
-
-if keyboard_check(vk_right) || keyboard_check(ord("D")) {
-	x += 2
-}
-
-if (place_meeting(x, y, obj_crystal))
-{
-	var _second = string(current_time)
-    show_debug_message("Collision" + _second)
-}
