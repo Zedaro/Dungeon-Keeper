@@ -35,7 +35,8 @@
   },
   "resources": [
     {"id":{"name":"spr_keyboard_e","path":"sprites/spr_keyboard_e/spr_keyboard_e.yy",},},
-    {"id":{"name":"spr_golem","path":"sprites/spr_golem/spr_golem.yy",},},
+    {"id":{"name":"spr_golem_idle","path":"sprites/spr_golem_idle/spr_golem_idle.yy",},},
+    {"id":{"name":"spr_golem_walking","path":"sprites/spr_golem_walking/spr_golem_walking.yy",},},
     {"id":{"name":"obj_golem","path":"objects/obj_golem/obj_golem.yy",},},
     {"id":{"name":"obj_keyboard_e","path":"objects/obj_keyboard_e/obj_keyboard_e.yy",},},
     {"id":{"name":"obj_crystal","path":"objects/obj_crystal/obj_crystal.yy",},},

@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_golem",
-    "path": "sprites/spr_golem/spr_golem.yy",
+    "name": "spr_golem_idle",
+    "path": "sprites/spr_golem_idle/spr_golem_idle.yy",
   },
   "spriteMaskId": null,
   "visible": true,
