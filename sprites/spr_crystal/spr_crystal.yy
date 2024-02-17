@@ -4,7 +4,7 @@
   "name": "spr_crystal",
   "bbox_bottom": 28,
   "bbox_left": 2,
-  "bbox_right": 17,
+  "bbox_right": 21,
   "bbox_top": 22,
   "bboxMode": 2,
   "collisionKind": 1,
