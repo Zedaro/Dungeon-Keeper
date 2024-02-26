@@ -35,11 +35,12 @@
   },
   "resources": [
     {"id":{"name":"spr_keyboard_e","path":"sprites/spr_keyboard_e/spr_keyboard_e.yy",},},
+    {"id":{"name":"obj_healthbar","path":"objects/obj_healthbar/obj_healthbar.yy",},},
     {"id":{"name":"spr_healthbar_bar_orange","path":"sprites/spr_healthbar_bar_orange/spr_healthbar_bar_orange.yy",},},
     {"id":{"name":"spr_golem_idle","path":"sprites/spr_golem_idle/spr_golem_idle.yy",},},
     {"id":{"name":"spr_healthbar_frame","path":"sprites/spr_healthbar_frame/spr_healthbar_frame.yy",},},
     {"id":{"name":"spr_golem_walking","path":"sprites/spr_golem_walking/spr_golem_walking.yy",},},
-    {"id":{"name":"obj_healthbar","path":"objects/obj_healthbar/obj_healthbar.yy",},},
+    {"id":{"name":"obj_healthbar_frame","path":"objects/obj_healthbar_frame/obj_healthbar_frame.yy",},},
     {"id":{"name":"obj_golem","path":"objects/obj_golem/obj_golem.yy",},},
     {"id":{"name":"obj_healthbar_bar","path":"objects/obj_healthbar_bar/obj_healthbar_bar.yy",},},
     {"id":{"name":"obj_keyboard_e","path":"objects/obj_keyboard_e/obj_keyboard_e.yy",},},

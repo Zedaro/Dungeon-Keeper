@@ -18,10 +18,11 @@
   ],
   "ResourceOrderSettings": [
     {"name":"spr_keyboard_e","order":2,"path":"sprites/spr_keyboard_e/spr_keyboard_e.yy",},
+    {"name":"obj_healthbar","order":5,"path":"objects/obj_healthbar/obj_healthbar.yy",},
     {"name":"spr_healthbar_bar_orange","order":6,"path":"sprites/spr_healthbar_bar_orange/spr_healthbar_bar_orange.yy",},
     {"name":"spr_healthbar_frame","order":4,"path":"sprites/spr_healthbar_frame/spr_healthbar_frame.yy",},
     {"name":"spr_golem_walking","order":3,"path":"sprites/spr_golem_walking/spr_golem_walking.yy",},
-    {"name":"obj_healthbar","order":3,"path":"objects/obj_healthbar/obj_healthbar.yy",},
+    {"name":"obj_healthbar_frame","order":3,"path":"objects/obj_healthbar_frame/obj_healthbar_frame.yy",},
     {"name":"obj_healthbar_bar","order":4,"path":"objects/obj_healthbar_bar/obj_healthbar_bar.yy",},
     {"name":"obj_keyboard_e","order":2,"path":"objects/obj_keyboard_e/obj_keyboard_e.yy",},
     {"name":"obj_crystal","order":1,"path":"objects/obj_crystal/obj_crystal.yy",},
